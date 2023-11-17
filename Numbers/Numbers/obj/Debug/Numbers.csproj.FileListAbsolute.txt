@@ -1,0 +1,11 @@
+C:\Users\vchup\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\vchup\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\vchup\source\repos\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.Form1.resources
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.Properties.Resources.resources
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.GenerateResource.cache
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\vchup\source\repos\Numbers\Numbers\obj\Debug\Numbers.pdb
